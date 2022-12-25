@@ -1,0 +1,22 @@
+
+
+
+{
+          <Recipe
+            key={recipes[4].recipe.label}
+            title={recipes[4].recipe.label}
+            calories={recipes[4].recipe.calories}
+            image={recipes[4].recipe.image}
+            ingredients={recipes[4].recipe.ingredients}
+          />
+        }
+        <div>Left wins</div>
+        {
+          <Recipe
+            key={recipes[1].recipe.label}
+            title={recipes[1].recipe.label}
+            calories={recipes[1].recipe.calories}
+            image={recipes[1].recipe.image}
+            ingredients={recipes[1].recipe.ingredients}
+          />
+        }
