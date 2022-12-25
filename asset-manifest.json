@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/magyarfasirthu/static/css/main.1f65c225.chunk.css",
+    "main.js": "/magyarfasirthu/static/js/main.250db0c3.chunk.js",
+    "main.js.map": "/magyarfasirthu/static/js/main.250db0c3.chunk.js.map",
+    "runtime-main.js": "/magyarfasirthu/static/js/runtime-main.e6fe279a.js",
+    "runtime-main.js.map": "/magyarfasirthu/static/js/runtime-main.e6fe279a.js.map",
+    "static/js/2.5af24aa4.chunk.js": "/magyarfasirthu/static/js/2.5af24aa4.chunk.js",
+    "static/js/2.5af24aa4.chunk.js.map": "/magyarfasirthu/static/js/2.5af24aa4.chunk.js.map",
+    "static/js/3.def64b7a.chunk.js": "/magyarfasirthu/static/js/3.def64b7a.chunk.js",
+    "static/js/3.def64b7a.chunk.js.map": "/magyarfasirthu/static/js/3.def64b7a.chunk.js.map",
+    "index.html": "/magyarfasirthu/index.html",
+    "static/css/main.1f65c225.chunk.css.map": "/magyarfasirthu/static/css/main.1f65c225.chunk.css.map",
+    "static/js/2.5af24aa4.chunk.js.LICENSE.txt": "/magyarfasirthu/static/js/2.5af24aa4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6fe279a.js",
+    "static/js/2.5af24aa4.chunk.js",
+    "static/css/main.1f65c225.chunk.css",
+    "static/js/main.250db0c3.chunk.js"
+  ]
+}
